@@ -1,0 +1,17 @@
+{
+    "Quality": {
+        "value": 0
+    },
+    "FOV": {
+        "value": 70
+    },
+    "Mouse Sensitivity": {
+        "value": 100
+    },
+    "Max Fps": {
+        "value": 60
+    },
+    "Detail": {
+        "value": 1
+    }
+}
