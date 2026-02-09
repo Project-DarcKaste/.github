@@ -2,13 +2,11 @@
 
 The official organization of Project Darckaste
 
-DarcKaste is a game, still in development, created by a high schooler.
+DarcKaste was a game, unfinished, created by a high schooler.
+> This would have been my first legitimate game (Scratch projects don't count)
 
-> I, [@genr4li](https://github.com/genr4li), hope that one day, I shall be able to publish it to somewhere like [itch.io](https://itch.io/).
-> This would be my first legitimate game (Scratch projects don't count)
-
-Written mostly in Python, and to be packaged using PyInstaller.
-> That will probably be done using a pwsh script because I'm too lazy to type it out
+Written mostly in Python.
 
 Actual raycaster written by Copilot
 > Original will be listed here too
+DarcKaste will no longer be developed, as [genr4li](@genr4li) is working on something *much* bigger...
